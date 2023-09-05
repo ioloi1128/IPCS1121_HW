@@ -1,2 +1,2 @@
-# IPCS1121_HW
+# IPCS1121_Heatwave lecture
 2023
